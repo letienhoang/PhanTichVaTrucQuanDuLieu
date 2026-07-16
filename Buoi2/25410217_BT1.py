@@ -19,4 +19,5 @@ def kq(nguoi, may):
     else:
         print("Bạn thua")
 
+kq(nguoi, may)
 
